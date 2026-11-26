@@ -38,7 +38,7 @@ statuses = [
 
 assets = []
 
-# Generate 20 sample assets
+
 for i, (name, category) in enumerate(asset_templates, start=1):
 
     last_updated = datetime.now(timezone.utc) - timedelta(
