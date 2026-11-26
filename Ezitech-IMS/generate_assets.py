@@ -57,7 +57,6 @@ for i, (name, category) in enumerate(asset_templates, start=1):
 
     assets.append(asset)
 
-# Save data in JSON file
 with open("sample_assets.json", "w", encoding="utf-8") as file:
     json.dump(assets, file, indent=4)
 
