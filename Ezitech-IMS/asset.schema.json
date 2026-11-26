@@ -1,0 +1,42 @@
+
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "Ezitech IMS Asset Schema",
+  "description": "Defines the structure of an inventory asset.",
+  "type": "object",
+  "required": [
+    "id",
+    "name",
+    "category",
+    "status",
+    "last_updated"
+  ],
+  "properties": {
+    "id": {
+      "type": "string",
+      "description": "Unique asset identification"
+    },
+    "name": {
+      "type": "string",
+      "description": "Name of the asset"
+    },
+    "category": {
+      "type": "string",
+      "description": "Category of the asset"
+    },
+    "status": {
+      "type": "string",
+      "enum": [
+        "Available",
+        "Assigned",
+        "Under Maintenance",
+        "Retired"
+      ]
+    },
+    "last_updated": {
+      "type": "string",
+      "format": "date-time"
+    }
+  },
+  "additionalProperties": false
+}
