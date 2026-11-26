@@ -36,6 +36,13 @@ statuses = [
     "Retired"
 ]
 
+locations = [
+    "Lab 1",
+    "Lab 2",
+    "Lab 3",
+    "IT Office"
+]
+
 assets = []
 
 
