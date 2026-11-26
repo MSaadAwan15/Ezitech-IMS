@@ -23,6 +23,12 @@
     "category": {
       "type": "string",
       "description": "Category of the asset"
+      },
+
+    "location": {
+    "type": "string",
+    "description": "Current physical location of the asset"
+
     },
     "status": {
       "type": "string",
