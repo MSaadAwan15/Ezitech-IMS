@@ -56,6 +56,7 @@ for i, (name, category) in enumerate(asset_templates, start=1):
         "id": f"AST-{i:04d}",
         "name": name,
         "category": category,
+        "location": random.choice(locations),
         "status": random.choice(statuses),
         "last_updated": last_updated.replace(
             microsecond=0
