@@ -1,0 +1,162 @@
+[
+    {
+        "id": "AST-0001",
+        "name": "Dell Latitude 5440",
+        "category": "Laptop",
+        "location": "Lab 2",
+        "status": "Available",
+        "last_updated": "2026-07-24T06:46:25Z"
+    },
+    {
+        "id": "AST-0002",
+        "name": "HP ProBook 450",
+        "category": "Laptop",
+        "location": "IT Office",
+        "status": "Under Maintenance",
+        "last_updated": "2026-09-29T06:46:25Z"
+    },
+    {
+        "id": "AST-0003",
+        "name": "Lenovo ThinkPad E14",
+        "category": "Laptop",
+        "location": "IT Office",
+        "status": "Retired",
+        "last_updated": "2026-08-17T06:46:25Z"
+    },
+    {
+        "id": "AST-0004",
+        "name": "Dell XPS 15",
+        "category": "Laptop",
+        "location": "IT Office",
+        "status": "Under Maintenance",
+        "last_updated": "2026-08-06T06:46:25Z"
+    },
+    {
+        "id": "AST-0005",
+        "name": "HP EliteBook 840",
+        "category": "Laptop",
+        "location": "Lab 2",
+        "status": "Available",
+        "last_updated": "2026-10-23T06:46:25Z"
+    },
+    {
+        "id": "AST-0006",
+        "name": "Samsung Galaxy S24",
+        "category": "Mobile",
+        "location": "Lab 1",
+        "status": "Assigned",
+        "last_updated": "2026-06-20T06:46:25Z"
+    },
+    {
+        "id": "AST-0007",
+        "name": "Apple iPhone 15",
+        "category": "Mobile",
+        "location": "Lab 1",
+        "status": "Under Maintenance",
+        "last_updated": "2026-09-23T06:46:25Z"
+    },
+    {
+        "id": "AST-0008",
+        "name": "Samsung Galaxy A54",
+        "category": "Mobile",
+        "location": "Lab 3",
+        "status": "Under Maintenance",
+        "last_updated": "2026-09-13T06:46:25Z"
+    },
+    {
+        "id": "AST-0009",
+        "name": "Apple iPhone 14",
+        "category": "Mobile",
+        "location": "Lab 2",
+        "status": "Available",
+        "last_updated": "2026-09-23T06:46:25Z"
+    },
+    {
+        "id": "AST-0010",
+        "name": "Google Pixel 8",
+        "category": "Mobile",
+        "location": "IT Office",
+        "status": "Retired",
+        "last_updated": "2026-09-30T06:46:25Z"
+    },
+    {
+        "id": "AST-0011",
+        "name": "HP LaserJet Pro M404",
+        "category": "Printer",
+        "location": "Lab 1",
+        "status": "Available",
+        "last_updated": "2026-05-31T06:46:25Z"
+    },
+    {
+        "id": "AST-0012",
+        "name": "Epson EcoTank L3250",
+        "category": "Printer",
+        "location": "Lab 2",
+        "status": "Assigned",
+        "last_updated": "2026-10-07T06:46:25Z"
+    },
+    {
+        "id": "AST-0013",
+        "name": "Canon PIXMA G3010",
+        "category": "Printer",
+        "location": "Lab 3",
+        "status": "Under Maintenance",
+        "last_updated": "2026-08-27T06:46:25Z"
+    },
+    {
+        "id": "AST-0014",
+        "name": "Canon PIXMA G34010",
+        "category": "Printer",
+        "location": "Lab 1",
+        "status": "Available",
+        "last_updated": "2026-10-29T06:46:25Z"
+    },
+    {
+        "id": "AST-0015",
+        "name": "HP Pro 9025",
+        "category": "Printer",
+        "location": "Lab 3",
+        "status": "Assigned",
+        "last_updated": "2026-10-27T06:46:25Z"
+    },
+    {
+        "id": "AST-0016",
+        "name": "Dell OptiPlex 7010",
+        "category": "Desktop",
+        "location": "Lab 2",
+        "status": "Available",
+        "last_updated": "2026-06-16T06:46:25Z"
+    },
+    {
+        "id": "AST-0017",
+        "name": "HP EliteDesk 800",
+        "category": "Desktop",
+        "location": "Lab 2",
+        "status": "Under Maintenance",
+        "last_updated": "2026-06-02T06:46:25Z"
+    },
+    {
+        "id": "AST-0018",
+        "name": "Lenovo ThinkCentre M70",
+        "category": "Desktop",
+        "location": "IT Office",
+        "status": "Assigned",
+        "last_updated": "2026-07-24T06:46:25Z"
+    },
+    {
+        "id": "AST-0019",
+        "name": "Dell Precision 3660",
+        "category": "Desktop",
+        "location": "Lab 2",
+        "status": "Available",
+        "last_updated": "2026-09-30T06:46:25Z"
+    },
+    {
+        "id": "AST-0020",
+        "name": "HP ProDesk 400",
+        "category": "Desktop",
+        "location": "IT Office",
+        "status": "Retired",
+        "last_updated": "2026-06-10T06:46:25Z"
+    }
+]
